@@ -10,11 +10,22 @@ I had lots of trouble with pathing throughout the project, but now that it is al
 
 ## Usage
 
-This is just a simple landing page, but I do want to include a screenshot of some code that I modified -- both to show the code and to practice adding screenshots to a README.
+This is just a simple landing page, but I do want to include a code nippet that I modified -- both to show the code and to practice adding code snippets to a README.
 
-```md
-![ScreenShot](../Assets/images/css-redundancies-code-refactor.PNG)
-```
+    /*Redundant code consolidated*/
+    .benefit-lead,
+    .benefit-brand,
+    .benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+    }
+
+    .benefit-lead h3,
+    .benefit-brand h3,
+    .benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+    }
 
 ## Credits N/A
 
