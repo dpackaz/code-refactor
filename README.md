@@ -14,7 +14,7 @@ This is just a simple landing page, but I do want to include a screenshot of som
 
 ```md
 ![screenshot](https://github.com/dpackaz/code-refactor/blob/main/Assets/images/css-redundancies-code-refactor.PNG)
-md```
+```
 
 ## Credits N/A
 
