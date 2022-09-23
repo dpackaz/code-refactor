@@ -13,7 +13,7 @@ I had lots of trouble with pathing throughout the project, but now that it is al
 This is just a simple landing page, but I do want to include a screenshot of some code that I modified -- both to show the code and to practice adding screenshots to a README.
 
 ```md
-![screenshot](https://raw.github.com/dpackaz/code-refactor/assets/images/css-redundancies-code-refactor.PNG)
+![screenshot](https://github.com/dpackaz/code-refactor/blob/main/Assets/images/css-redundancies-code-refactor.PNG)
 md```
 
 ## Credits N/A
